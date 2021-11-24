@@ -1,4 +1,4 @@
-%
+% 13
 % a. Given a linear numerical list write a predicate to remove all
 % sequences of consecutive values.
 %
